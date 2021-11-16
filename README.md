@@ -1,14 +1,14 @@
-### Hi there 👋
+Hi , I'm Guerra
+Profile views
 
-**guerramg/guerramg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Sênior Web Developer & Instructor focused on helping people start programming
 
-Here are some ideas to get you started:
+🔭 I’m currently working at Rocketseat
 
-- 🔭 I’m currently working Studio AI
-- 🌱 I’m currently learning javascript and react
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 All of my projects are available at maykbrito.dev
+
+▶️ I regularly post videos on youtube.com/maykbrito
+
+💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS
+
+⚡ Fun fact Oneye 😜
