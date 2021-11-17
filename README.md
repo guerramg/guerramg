@@ -1,14 +1,12 @@
 Hi , I'm Guerra
 Profile views
 
-🔥 Sênior Web Developer & Instructor focused on helping people start programming
+🔥 Web Developer
 
-🔭 I’m currently working at Rocketseat
+🔭 I’m  not currently working
 
-👨‍💻 All of my projects are available at maykbrito.dev
+👨‍💻 All of my projects are available at github
 
-▶️ I regularly post videos on youtube.com/maykbrito
-
-💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS
+💬 Ask me about JavaScript, HTML, CSS, SQL
 
 ⚡ Fun fact Oneye 😜
