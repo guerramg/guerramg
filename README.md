@@ -9,6 +9,6 @@ Profile views
 
 💬 Ask me about JavaScript, HTML, CSS, SQL, PHP, Python
 
-🧑‍🎓 I study nodeJS and React
+🧑‍🎓 I study Laravel framework, nodeJS and React
 
 ⚡ Fun fact Oneye 😜
