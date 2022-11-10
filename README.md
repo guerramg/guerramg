@@ -1,21 +1,21 @@
-Olá Mundo! 😜
+Hello World! 👽😜
 
-<h1 align="center">Hi 👋, I'm Raphael Guerra 👽</h1>
+<h1 align="center">Hi 👋, I'm Raphael Guerra</h1>
 <h3 align="center">A passionate back and frontend developer in Brazil and World</h3>
 
 - 🔭 I’m currently working in freelance projects [Dental Clinic Dr. Leandro Cunha](https://leandrodentista.com.br)
 
-- 🌱 I’m currently learning **Python, Django and React**
+- 🌱 I’m currently learning **English, Spanish, Python, Django and React**
 
 - 👯 I’m looking to collaborate on **PHP and JS Projects**
 
-- 👨‍💻 All of my projects are available at [https://dev.guera.app.br](https://dev.guera.app.br)
+- 👨‍💻 All of my projects are available at [My portifolio](https://dev.guera.app.br)
 
 - 💬 Ask me about **PHP**
 
 - 📫 How to reach me **raphael@guerra.app.br**
 
-- 📄 Know about my experiences [in my website portifolio](in my website portifolio)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/guerra-raphael-1921b0221/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
