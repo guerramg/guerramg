@@ -5,11 +5,11 @@ Hello World! 👽😜
 
 - 🔭 I’m currently working in freelance projects [Dental Clinic Dr. Leandro Cunha](https://leandrodentista.com.br)
 
-- 🌱 I’m currently learning **English, Spanish, Python, Django and React**
+- 🌱 I’m currently learning, **Languages: Chinese, English, Spanish || Tech: Python, Django and React**
 
 - 👯 I’m looking to collaborate on **PHP and JS Projects**
 
-- 👨‍💻 All of my projects are available at [My portifolio](https://dev.guera.app.br)
+- 👨‍💻 All of my projects are available at [My portifolio](https://dev.guerra.app.br)
 
 - 💬 Ask me about **PHP**
 
