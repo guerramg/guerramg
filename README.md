@@ -3,7 +3,7 @@ Hello World! 👽😜
 <h1 align="center">Hi 👋, I'm Raphael Guerra</h1>
 <h3 align="center">A passionate back and frontend developer in Brazil and World</h3>
 
-- 🔭 I’m currently working in freelance projects [Dental Clinic Dr. Leandro Cunha](https://leandrodentista.com.br) and [Valentini Cosméticos] (https://valentinicosmeticos.com.br);
+- 🔭 I’m currently working in freelance projects [Dental Clinic Dr. Leandro Cunha](https://leandrodentista.com.br) and PJ in [Valentini Cosméticos] (https://valentinicosmeticos.com.br);
 
 - 🌱 I’m currently learning, **Languages: Chinese, English, Spanish || Tech: Python, Django and React**
 
